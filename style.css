@@ -4,7 +4,7 @@
 	width: 100%;
 	position: sticky;
 	top: 0;
-	scroll-margin-top: 175px
+	scroll-margin-top: 200px
 	max-width: 400px;
 	font-size: 28px;
 	color: black;
@@ -36,7 +36,7 @@ a:hover {
 	background-color: #f5f0e6;
 	display: inline-block;
 	width: 100%;
-	scroll-margin-top: 175px;
+	scroll-margin-top: 200px;
 	margin: 0;
 	font-size: 18px;
 	color: black;
@@ -48,7 +48,7 @@ a:hover {
 	color: white;
 	display: inline-block;
 	width: 100%;
-	scroll-margin-top: 175px;
+	scroll-margin-top: 200px;
 	margin: 0;
 	padding: 20px;
 }
@@ -57,7 +57,7 @@ a:hover {
 	display: inline-grid;
 	background-color: #f5f0e6;
         width: 100%;
-        scroll-margin-top: 175px;
+        scroll-margin-top: 200px;
 	gap: 25px;	
 	padding: 20px;
 }
@@ -66,7 +66,7 @@ a:hover {
 	grid-column: 1;
 	background-color: #182b49;
 	height: 600px;
-	width: 485px;
+	width: 460px;
 	color: white;
 	overflow: hidden;
 	overflow-y: scroll;
@@ -79,7 +79,7 @@ a:hover {
         grid-column: 2;
 	background-color: #182b49;
 	height: 600px;
-        width: 485px;
+        width: 460px;
 	color: white;
 	overflow: hidden;
         overflow-y: scroll;
@@ -92,7 +92,7 @@ a:hover {
         grid-column: 3;
 	background-color: #182b49;
 	height: 600px;
-        width: 485px;
+        width: 460px;
 	color: white;
 	overflow: hidden;
         overflow-y: scroll;
@@ -106,7 +106,7 @@ a:hover {
         grid-column: 4;
 	background-color: #182b49;
 	height: 600px;
-        width: 485px;
+        width: 460px;
 	color: white;
 	overflow: hidden;
         overflow-y: scroll;
